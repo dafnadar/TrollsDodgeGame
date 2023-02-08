@@ -2,10 +2,7 @@
 DodgeGame is a troll survival game where you play as a female troll trying to dodge all the other trolls.
 
 # Description
-DODGE game includes one “goodie” and ten “baddies”. <br/>
-
-Every second, each baddie moves one step towards the goodie. <br/>
-
+Dodge game includes one “goodie” and ten “baddies”. Every second, each baddie moves one step towards the goodie. <br/>
 A collision between two baddies causes one baddie to disappear. <br/>
 
 The game is over on one of two conditions: <br/>
